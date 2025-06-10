@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BBESunZ_.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"composables/use-interval.md","filePath":"composables/use-interval.md"}'),s={name:"composables/use-interval.md"};function o(r,n,c,l,p,i){return a(),t("div")}const d=e(s,[["render",o]]);export{_ as __pageData,d as default};
